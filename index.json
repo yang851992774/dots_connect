@@ -1,0 +1,34 @@
+{
+	"poki_template_version": 1,
+	"extra_html": {
+	  "head": [
+		"<!-- will be copied to the resulting head //-->"
+	  ],
+	  "body": [
+		"<!-- will be copied to the resulting body //-->",
+		"<!-- will also be copied to the resulting body //-->"
+	  ]
+	},
+	"background_color": "#1F1F20",
+	"background_filename": "",
+	"code_filename": "46194b3881dfceb43da1763a8b6debea.wasm.br",
+	"company_name": "DinStudio",
+	"data_filename": "9eade3f819aac65ecc702eba742b7b4b.data.br",
+	"decompression_fallback": "",
+	"development_player": "false",
+	"framework_filename": "875802f02d112fd382f6a6dadfd7eeea.framework.js.br",
+	"height": "580",
+	"loader_filename": "bb0d9ecdb05db3e84da20bd14a4f84dc.loader.js",
+	"memory_filename": "",
+	"product_name": "Dots Connect",
+	"product_version": "0.0.1",
+	"splash_screen_style": "Dark",
+	"symbols_filename": "",
+	"unity_version": "2022.3.55f1",
+	"use_data_caching": "true",
+	"use_threads": "false",
+	"use_wasm": "true",
+	"use_webgl_1_0": "false",
+	"use_webgl_2_0": "true",
+	"width": "1031"
+  }
