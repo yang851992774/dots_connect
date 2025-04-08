@@ -11,13 +11,13 @@
 	},
 	"background_color": "#1F1F20",
 	"background_filename": "",
-	"code_filename": "46194b3881dfceb43da1763a8b6debea.wasm.unityweb",
+	"code_filename": "21f07ce936d4989369b2e460b65464a8.wasm.unityweb",
 	"company_name": "DinStudio",
-	"data_filename": "db0734a95966b8b5adf85b583af86f72.data.unityweb",
+	"data_filename": "81fd0d8cc9326affe6ebe744523c424f.data.unityweb",
 	"decompression_fallback": "Brotli",
 	"development_player": "false",
-	"framework_filename": "875802f02d112fd382f6a6dadfd7eeea.framework.js.unityweb",
-	"height": "580",
+	"framework_filename": "dcba781ff307acb47e0f44b632a48464.framework.js.unityweb",
+	"height": "1080",
 	"loader_filename": "9853637125e801e9aae48e78dbbdcfca.loader.js",
 	"memory_filename": "",
 	"product_name": "Dots Connect",
@@ -30,5 +30,5 @@
 	"use_wasm": "true",
 	"use_webgl_1_0": "false",
 	"use_webgl_2_0": "true",
-	"width": "1031"
+	"width": "1920"
   }
